@@ -1,5 +1,5 @@
 
-  // Made By Social404 Do Not Leak!
+  // Made By LeFearr
   
   // Libs
   const crypto = require("crypto")
